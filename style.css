@@ -52,7 +52,7 @@ body {
 }
 
 .glass-container h2 {
-    color: #ffff;
+    color: #5F9EA0;
     font-size: 28px;
     font-weight: 600;
     text-align: canter;
@@ -74,7 +74,7 @@ body {
     outline: none;
     border-radius: 35px;
     font-size: 16px;
-    color: #fff;
+    color:	#2E8B57;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
     transition: all 0.3s ease;
 }
@@ -105,7 +105,7 @@ body {
     background: rgba(255, 255, 255, 0.2);
     padding: 2px 8px;
     border-radius: 10px;
-    color:#fff;
+    color:#808000;
 }
 
 .remember-forgot {
