@@ -74,13 +74,13 @@ body {
     outline: none;
     border-radius: 35px;
     font-size: 16px;
-    color: #34a13d;
+    color: #171817;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
     transition: all 0.3s ease;
 }
 
 .input-group input::placeholder {
-    color: rgba(92, 187, 14, 0.7);
+    color: rgba(15, 15, 15, 0.7);
 }
 
 .input-group input:focus {
@@ -169,7 +169,7 @@ body {
 }
 
 .register-link a {
-    color: #fff;
+    color: #161111;
     font-weight: 600;
     text-decoration: none;
     transition: all 0.3s ease;
